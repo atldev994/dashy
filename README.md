@@ -143,7 +143,7 @@ See also: [examples with Docker Compose](./docs/deployment.md#using-docker-compo
 
 You will need [git](https://git-scm.com/downloads), the latest or LTS version of [Node.js](https://nodejs.org/) and _(optionally)_ [Yarn](https://yarnpkg.com/) installed on your system.
 
-- Clone the Repo: `git clone https://github.com/Lissy93/dashy.git` and `cd dashy`
+- Clone the Repo: `git clone https://github.com/atldev994/dashy.git` and `cd dashy`
 - Configuration: Fill in your settings in `./user-data/conf.yml`
 - Install dependencies: `yarn`
 - Build: `yarn build`
